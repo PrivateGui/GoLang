@@ -1,1 +1,1 @@
-Simple Go (Golang) contributed projects here.
+Simple Go (Golang) contributed projects are here.
